@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family: 'Open Sans';
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -22,7 +22,6 @@ body {
 }
 
 img {
-  width: auto;
   max-width: 100%;
 }
 
